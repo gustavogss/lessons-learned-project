@@ -4,14 +4,7 @@
 
 - [x] 1. Adicione uma cor de fundo específica para a página
 
-Possuir cor de fundo: rgb(253, 251, 251)
-
-**O que será verificado:**
-
-- Possuir cor de fundo: rgb(253, 251, 251)
-
 - [x] 2. Adicione uma barra superior com um título
-
 
 - [x] 3. Adicione uma foto sua à página
 
