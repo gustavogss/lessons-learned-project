@@ -41,6 +41,6 @@
 - JavaScript
 
 ## Deploy 
-- [Clique aqui](https://project-lessons-learned-hc065dojw-gustavogss.vercel.app/)
+- [Clique aqui](https://gustavogss.github.io/project-lessons-learned/)
 
 
