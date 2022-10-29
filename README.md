@@ -40,7 +40,8 @@
 - CSS3
 - JavaScript
 
-## Deploy 
+## Aplicação :computer: 
 - [Clique aqui](https://gustavogss.github.io/project-lessons-learned/)
 
+<img src="https://github.com/gustavogss/project-lessons-learned/blob/main/images/screencapture-gustavogss-github-io-project-lessons-learned-2022-10-29-12_43_39.png" />
 
