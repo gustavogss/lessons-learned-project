@@ -38,7 +38,6 @@
 - VSCode
 - HMTL5
 - CSS3
-- JavaScript
 
 ## Aplicação :computer: 
 - [Clique aqui](https://gustavogss.github.io/project-lessons-learned/)
