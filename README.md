@@ -40,7 +40,7 @@
 - CSS3
 
 ## Aplicação :computer: 
-- [Clique aqui](https://gustavogss.github.io/project-lessons-learned/)
+- [Clique aqui](https://gustavogss.github.io/lessons-learned-project/)
 
 <img src="https://github.com/gustavogss/project-lessons-learned/blob/main/images/screencapture-gustavogss-github-io-project-lessons-learned-2022-10-29-12_43_39.png" />
 
